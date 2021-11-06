@@ -13,6 +13,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /* Nav bar */
 
 .navbar {
@@ -66,6 +67,7 @@ nav ul li a {
     text-decoration: none;
     color: white;
 }
+
 /* below nav bar */
 .nav-btn {
     position: relative;
@@ -116,6 +118,7 @@ nav ul li a {
     padding: 15px 32px;
     font-size: 16px;
 }
+
 /* services styles */
 .services {
     width: 100%;
@@ -124,17 +127,20 @@ nav ul li a {
     padding-top: 50px;
     background-color: #bdb4a8;
 }
-.services >p{
+
+.services>p {
     font-style: italic;
 }
+
 .services>h1 {
     color: #ffee00;
     font-size: 40px;
     font-weight: 700;
 
 }
+
 /* This is the review section */
-.review > .review-content>p{
+.review>.review-content>p {
     font-style: italic;
 }
 
@@ -191,6 +197,7 @@ nav ul li a {
 .review p {
     color: white;
 }
+
 /* Menu section */
 .menu {
     display: flex;
@@ -238,6 +245,7 @@ nav ul li a {
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .food-price {
     font-size: 1rem;
     margin: 5% 0;
@@ -260,6 +268,7 @@ nav ul li a {
     font-size: 1rem;
     border-radius: 5px;
 }
+
 /* Footer section styling */
 .footer .footer-head {
     background-image: url("../images/image8.png");
