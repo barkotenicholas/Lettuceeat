@@ -116,4 +116,20 @@ nav ul li a {
     padding: 15px 32px;
     font-size: 16px;
 }
+/* services styles */
+.services {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    background-color: #bdb4a8;
+}
+.services >p{
+    font-style: italic;
+}
+.services>h1 {
+    color: #ffee00;
+    font-size: 40px;
+    font-weight: 700;
 
+}
