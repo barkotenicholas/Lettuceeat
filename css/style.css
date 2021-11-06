@@ -238,3 +238,26 @@ nav ul li a {
     flex-wrap: wrap;
     justify-content: center;
 }
+.food-price {
+    font-size: 1rem;
+    margin: 5% 0;
+    color: #ffd900;
+    font-style: normal;
+
+}
+
+.food-detail {
+    font-size: 1rem;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.btn-order {
+    padding: 5%;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
