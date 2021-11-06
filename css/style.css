@@ -1,0 +1,15 @@
+/* Body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header  styling */
+header {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background-color: black;
+    background-image: url("../images/image2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
