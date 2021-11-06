@@ -260,4 +260,37 @@ nav ul li a {
     font-size: 1rem;
     border-radius: 5px;
 }
+/* Footer section styling */
+.footer .footer-head {
+    background-image: url("../images/image8.png");
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    background-size: cover;
+    justify-content: center;
+}
 
+.footer .footer-head p,
+.footer .footer-head h1 {
+    color: white;
+}
+
+.footer .footer-head button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: 2px solid #ffffff;
+    padding: 15px 32px;
+    color: white;
+}
+
+.footer .footer-tail {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.footer .footer-tail p {
+    color: white;
+}
