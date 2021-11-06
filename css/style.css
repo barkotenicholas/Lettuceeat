@@ -133,3 +133,108 @@ nav ul li a {
     font-weight: 700;
 
 }
+/* This is the review section */
+.review > .review-content>p{
+    font-style: italic;
+}
+
+.row {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.food-item {
+    background-color: white;
+    margin-bottom: 10%;
+    box-sizing: border-box;
+    padding: 25px 17px;
+    flex-basis: 30%;
+}
+
+
+.food-item>h2 {
+    width: 30px;
+    text-align: center;
+    margin: auto;
+    background-color: #ffee00;
+    border-radius: 50%;
+}
+
+.review {
+    display: flex;
+    background-color: black;
+}
+
+.review img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+
+}
+
+.review-content {
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.review h1 {
+    color: white;
+    text-decoration: underline;
+}
+
+.review h2 {
+    color: white;
+}
+
+.review p {
+    color: white;
+}
+/* Menu section */
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #bdb4a8;
+}
+
+.menu h1 {
+    text-align: center;
+    color: #ffee00;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.menu>p {
+    width: 70%;
+    text-align: center;
+    font-style: italic;
+}
+
+.menu-item {
+    width: 30%;
+    margin: 1%;
+    display: flex;
+    float: left;
+    flex-direction: row;
+    padding: 2%;
+    background-color: white;
+}
+
+.menu-item-img {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.menu-item-content {
+    width: 70%;
+    float: left;
+}
+
+.menu-holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
