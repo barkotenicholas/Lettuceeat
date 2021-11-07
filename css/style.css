@@ -48,19 +48,21 @@ nav {
 }
 
 nav ul {
-    width: 80%;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 80%;
+    height: 100%;
+  
 }
 
 nav ul li {
-    list-style: none;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    list-style: none;
+    height: 100%;
+
 }
 
 nav ul li a {
@@ -80,17 +82,18 @@ nav ul li a {
     position: relative;
     display: flex;
     align-items: center;
-    margin-right: 4rem;
+    margin-right: 64px;
 }
 .nav-btn-main button{
     text-align: center;
+    border: none;
+    color: white;
+    padding: 20px 30px;
+    font-size: 16px;
     text-decoration: none;
     display: inline-block;
     background-color: #ffee00;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    font-size: 16px;   
+     
 }
 .nav-btn button {
     text-align: center;
