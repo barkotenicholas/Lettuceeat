@@ -13,7 +13,7 @@ This is a Lettuce website
 * clone it to your desktop 
 ```bash
  git clone  https://github.com/barkotenicholas/Lettuceeat.git
- cd buger
+ cd Lettuceeat
  code .
   ```
 * Open index.html with a browser of your choice
