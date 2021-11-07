@@ -26,7 +26,7 @@ This is a Lettuce website
  ## Live Link
 
 
-[Click here to see the website]()
+[Click here to see the website](https://barkotenicholas.github.io/Lettuceeat/)
 
 
 ## License & copyright
