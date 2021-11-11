@@ -92,14 +92,14 @@ nav ul li a {
     font-size: 16px;
     text-decoration: none;
     display: inline-block;
-    background-color: #ffee00;
+    background-color: #F19201;
      
 }
 .nav-btn button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    background-color: #ffee00;
+    background-color: #F19201;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -109,7 +109,7 @@ nav ul li a {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    background-color: #ffee00;
+    background-color: #F19201;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -145,7 +145,7 @@ nav ul li a {
     float: left;
     clear: left;
     text-decoration: none;
-    background-color: #ffee00;
+    background-color: #F19201;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -166,7 +166,7 @@ nav ul li a {
 }
 
 .services>h1 {
-    color: #ffee00;
+    color: #F19201;
     font-size: 40px;
     font-weight: 700;
 
@@ -196,7 +196,7 @@ nav ul li a {
     width: 30px;
     text-align: center;
     margin: auto;
-    background-color: #ffee00;
+    background-color: #F19201;
     border-radius: 50%;
 }
 
@@ -241,7 +241,7 @@ nav ul li a {
 
 .menu h1 {
     text-align: center;
-    color: #ffee00;
+    color: #F19201;
     font-size: 40px;
     font-weight: 700;
 }
