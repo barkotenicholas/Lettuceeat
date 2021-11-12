@@ -25,7 +25,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background: rgba(0, 5, 0, 0.1);
+    background: rgba(0, 0, 0, 0.5);
     height: 15%;
 }
 
@@ -33,6 +33,9 @@ header {
     height: 100%;
     display: flex;
     align-items: center;
+}
+.active{
+    color: #F19201;
 }
 
 nav {
@@ -44,7 +47,7 @@ nav {
 }
 
 .logo h2 {
-    color: white;
+    color: #F19201;
 }
 
 nav ul {
@@ -67,7 +70,11 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
+    font-weight: 800;
     color: white;
+}
+nav ul li a:hover{
+    color: #F19201;
 }
 
 /* below nav bar */
@@ -81,6 +88,7 @@ nav ul li a {
 .nav-btn-main{
     position: relative;
     display: flex;
+    color: #F19201;
     align-items: center;
     margin-right: 64px;
 }
@@ -271,6 +279,7 @@ nav ul li a {
 .menu-item-content {
     width: 70%;
     float: left;
+    margin-left: 20px;
 }
 
 .menu-holder {
@@ -281,8 +290,9 @@ nav ul li a {
 
 .food-price {
     font-size: 1rem;
+    font-weight: 800;
     margin: 5% 0;
-    color: #ffd900;
+    color: #F19201;
     font-style: normal;
 
 }
